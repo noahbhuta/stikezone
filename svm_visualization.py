@@ -1,3 +1,4 @@
+### Code is From Codecademy 
 import numpy as np
 import matplotlib.pyplot as plt
 
